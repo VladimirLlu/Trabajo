@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"proyecto","c":"Alumno","l":"Alumno(String)","url":"%3Cinit%3E(java.lang.String)"},{"p":"proyecto","c":"Alumno","l":"getNombre_alumno()"},{"p":"proyecto","c":"Alumno","l":"setNombre_alumno(String)","url":"setNombre_alumno(java.lang.String)"},{"p":"proyecto","c":"Alumno","l":"toString()"}]
